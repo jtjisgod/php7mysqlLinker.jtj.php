@@ -1,4 +1,4 @@
-<?
+<?php
 	function mysql_connect($host, $id, $pw)	{
 		return mysqli_connect($host, $id, $pw);
 	}
